@@ -11,7 +11,7 @@ Network for those earning a NW Masters of Applied Data Science
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ EA
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ SB
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AC
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ JC
+ - [GitHub](https://github.com/jcreech72) ◆ [LinkedIn](https://www.linkedin.com/in/julie-creech/)◆ [Capstone Repo](https://github.com/jcreech72/CreechCapstone) ◆ [Overleaf](https://www.overleaf.com/read/mzdkvqkytrmg) ◆ Julie Creech
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ DE
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AF
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AL
